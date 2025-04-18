@@ -1,0 +1,146 @@
+/* General Reset and Box-Sizing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body and Background */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9; /* Light background color for a clean look */
+    color: #333; /* Dark text for better readability */
+    line-height: 1.6;
+}
+
+/* Header Styling */
+header {
+    background-color: #4CAF50; /* Soft green for a healthcare feel */
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Slight shadow for depth */
+}
+
+header h1 {
+    font-size: 2.5em;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    transition: color 0.3s ease;
+}
+
+header a:hover {
+    color: #ffeb3b; /* Yellow color for hover effect */
+}
+
+/* Sidebar Styling */
+.sidebar {
+    background-color: #00796b; /* Calming teal/green for the sidebar */
+    color: white;
+    width: 250px;
+    position: fixed;
+    height: 100%;
+    top: 0;
+    left: 0;
+    padding-top: 50px;
+    padding-left: 20px;
+    box-shadow: 2px 0 6px rgba(0, 0, 0, 0.1); /* Subtle shadow to separate the sidebar */
+}
+
+.sidebar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    margin-bottom: 20px;
+    font-size: 1.1em;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.sidebar a:hover {
+    background-color: #004d40; /* Darker shade for hover effect */
+    color: #ffeb3b; /* Yellow color for hover effect */
+}
+
+/* Main Content Styling */
+.content {
+    margin-left: 260px; /* Sidebar width */
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow around the content */
+}
+
+h1 {
+    color: #4CAF50; /* Green heading color to match the healthcare theme */
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+/* Stats Section */
+.stats {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    gap: 20px; /* Adds space between stat boxes */
+}
+
+.stat-box {
+    background-color: #f1f1f1; /* Light gray background for stats boxes */
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* Soft shadow for stat boxes */
+}
+
+.stat-box h2 {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    color: #00796b; /* Color for headings in stats section */
+}
+
+.stat-box p {
+    font-size: 2em;
+    font-weight: bold;
+    color: #388e3c; /* Green color for the numbers to match the clinic theme */
+}
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: white;
+    margin-top: 30px;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1); /* Shadow for footer separation */
+}
+
+/* Responsive Design for Smaller Screens */
+@media (max-width: 768px) {
+    .content {
+        margin-left: 0; /* Remove margin for smaller screens */
+        padding: 10px; /* Reduce padding for better fit */
+    }
+
+    .stats {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .stat-box {
+        width: 80%; /* Make stat boxes take full width on mobile */
+        margin-bottom: 20px; /* Add space between boxes */
+    }
+
+    .sidebar {
+        width: 100%;
+        position: relative; /* Sidebar goes below content on mobile */
+        height: auto;
+        padding-top: 20px;
+    }
+}
