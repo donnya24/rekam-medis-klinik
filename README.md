@@ -30,9 +30,15 @@ Membantu tenaga medis dan staf klinik dalam mencatat riwayat kesehatan pasien se
 # Dosen Pembimbing
 
 # Tampilan Aplikasi
+1. Halaman Login
 ![Image](https://github.com/user-attachments/assets/3e5c6b71-e5b1-4be2-b8ed-e1692bd04887)
+2. Login sebagai Admin
 ![Image](https://github.com/user-attachments/assets/6782bc57-a28b-4eea-b0d1-8f495d6dd0e2)
+3. Login sebagai Administrasi
 ![Image](https://github.com/user-attachments/assets/42bcdb36-ad3d-435d-bcab-9bf572e840e6)
+4. Login sebagai Dokter
 ![Image](https://github.com/user-attachments/assets/91337280-a7c3-4f1d-b944-f5ac5d0db891)
+5. Login Sebagai Perawat
 ![Image](https://github.com/user-attachments/assets/20fb8c67-59f9-4f65-973d-69647319224f)
+6. Login sebagai Apoteker
 ![Image](https://github.com/user-attachments/assets/7a8e5723-2292-4b85-ba0b-8d0db89903c7)
