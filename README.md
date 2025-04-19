@@ -1,7 +1,7 @@
 # Project Web Rekam Medis Klinik Kelompok 3
 
 # Poster
-![Image](https://github.com/user-attachments/assets/64e1370a-4826-49af-a9dc-c8f8b8935875)
+![Image](https://github.com/user-attachments/assets/bbf45f5c-0d29-430b-aba2-c5d7e6664093)
 
 # Apa itu Aplikasi Rekam Medis Klinik?
 Aplikasi Rekam Medis Klinik adalah sistem informasi digital yang dirancang untuk membantu pengelolaan data pasien secara efisien dan terorganisir. Aplikasi ini memungkinkan petugas klinik untuk mencatat, mengakses, dan mengelola data rekam medis pasien dengan lebih cepat dan akurat, sehingga meningkatkan kualitas pelayanan kesehatan.
