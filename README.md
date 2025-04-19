@@ -16,7 +16,10 @@ Aplikasi BMI adalah alat kesehatan yang dirancang untuk membantu pengguna menghi
 3. Aplikasi memberikan rekomendasi dan saran gaya hidup atau pola makan yang sesuai dengan kategori BMI pengguna.
 
 # Tim Developer
-
+1. Lana Zelda Savitri Santoso		 (23050974018)
+2. Aliva Wahyu Ningrum 		       (23050974019)
+3. Donny Andika Kurniawan		     (23050974024)
+4. Daffa Bayu Faadihillah 		   (23050974031)
 
 # Info lebih lanjut tentang Program Studi
 - Prodi S1 Pendidikan Teknologi Informasi : https://sindig.unesa.ac.id/kurikulum/s1-pendidikan-teknologi-informasi
