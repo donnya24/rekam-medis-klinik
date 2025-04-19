@@ -3,17 +3,18 @@
 # Poster
 ![Image](https://github.com/user-attachments/assets/64e1370a-4826-49af-a9dc-c8f8b8935875)
 
-# Apa itu BMI Calculator ?
-Aplikasi BMI adalah alat kesehatan yang dirancang untuk membantu pengguna menghitung dan memahami indeks massa tubuh (BMI) mereka. Aplikasi ini memiliki berbagai fitur untuk memberikan pengalaman pengguna yang interaktif dan informatif.
+# Apa itu Aplikasi Rekam Medis Klinik?
+Aplikasi Rekam Medis Klinik adalah sistem informasi digital yang dirancang untuk membantu pengelolaan data pasien secara efisien dan terorganisir. Aplikasi ini memungkinkan petugas klinik untuk mencatat, mengakses, dan mengelola data rekam medis pasien dengan lebih cepat dan akurat, sehingga meningkatkan kualitas pelayanan kesehatan.
 
-# Tujuan Aplikasi BMI
-1. Aplikasi ini bertujuan untuk membantu pengguna memahami indeks massa tubuh (BMI) pengguna, sehingga dapat memberikan wawasan mengenai status kesehatan mereka terkait berat badan.
-2. Aplikasi ini dirancang untuk mendorong pengguna untuk memiliki gaya hidup sehat dengan menyediakan rekomendasi terkait BMI mereka.
+# Tujuan Aplikasi Rekam Medis
+Membantu tenaga medis dan staf klinik dalam mencatat riwayat kesehatan pasien secara digital agar mudah diakses kapan saja.
 
-# Fungsi Aplikasi BMI
-1. Aplikasi ini memiliki fitur utama untuk menghitung BMI berdasarkan data tinggi dan berat badan yang dimasukkan oleh pengguna.
-2. Berdasarkan hasil perhitungan, aplikasi mengelompokkan BMI pengguna ke dalam beberapa kategori, seperti underweight, normal, overweight, dan obesity.
-3. Aplikasi memberikan rekomendasi dan saran gaya hidup atau pola makan yang sesuai dengan kategori BMI pengguna.
+# Fungsi Aplikasi Rekam Medis
+1. Meningkatkan efisiensi dan akurasi dalam pengelolaan informasi medis
+2. Mengurangi penggunaan kertas
+3. Meminimalkan risiko kehilangan data.
+4. Memungkinkan pencarian data pasien secara cepat dan akurat melalui sistem database.
+5. Menyimpan dan menampilkan data pasien seperti identitas, riwayat penyakit, diagnosa, resep, serta hasil pemeriksaan.
 
 # Tim Developer
 1. Lana Zelda Savitri Santoso		 (23050974018)
@@ -26,5 +27,12 @@ Aplikasi BMI adalah alat kesehatan yang dirancang untuk membantu pengguna menghi
 - Fakultas Teknik : https://ft.unesa.ac.id/
 - Universitas Negeri Surabaya : https://unesa.ac.id/
 
+# Dosen Pembimbing
+
 # Tampilan Aplikasi
-![Screenshot 2024-11-05 012200](https://github.com/user-attachments/assets/69e4d5df-1984-41eb-b700-b3559e159e0c)
+![Image](https://github.com/user-attachments/assets/3e5c6b71-e5b1-4be2-b8ed-e1692bd04887)
+![Image](https://github.com/user-attachments/assets/6782bc57-a28b-4eea-b0d1-8f495d6dd0e2)
+![Image](https://github.com/user-attachments/assets/42bcdb36-ad3d-435d-bcab-9bf572e840e6)
+![Image](https://github.com/user-attachments/assets/91337280-a7c3-4f1d-b944-f5ac5d0db891)
+![Image](https://github.com/user-attachments/assets/20fb8c67-59f9-4f65-973d-69647319224f)
+![Image](https://github.com/user-attachments/assets/7a8e5723-2292-4b85-ba0b-8d0db89903c7)
