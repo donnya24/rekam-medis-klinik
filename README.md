@@ -1,7 +1,7 @@
 # Project Web Rekam Medis Klinik Kelompok 3
 
 # Poster
-
+![Image](https://github.com/user-attachments/assets/64e1370a-4826-49af-a9dc-c8f8b8935875)
 
 # Apa itu BMI Calculator ?
 Aplikasi BMI adalah alat kesehatan yang dirancang untuk membantu pengguna menghitung dan memahami indeks massa tubuh (BMI) mereka. Aplikasi ini memiliki berbagai fitur untuk memberikan pengalaman pengguna yang interaktif dan informatif.
