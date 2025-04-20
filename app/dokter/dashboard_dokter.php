@@ -304,7 +304,7 @@ $query_perawatan_bulan_ini = mysqli_query($conn, "
             <!-- Heading -->
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="page-header">Dashboard Dokter</h1>
+                    <h1 class="page-header">Selamat Datang di Dashboard Dokter</h1>
                     <div class="doctor-info">
                         <div>
                             <span class="doctor-name">Dr. <?php echo htmlspecialchars($dokter['nama_dokter']); ?></span>
