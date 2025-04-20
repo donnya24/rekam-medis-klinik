@@ -33,12 +33,12 @@ Membantu tenaga medis dan staf klinik dalam mencatat riwayat kesehatan pasien se
 1. Halaman Login
 ![Image](https://github.com/user-attachments/assets/3e5c6b71-e5b1-4be2-b8ed-e1692bd04887)
 2. Login sebagai Admin
-![Image](https://github.com/user-attachments/assets/6782bc57-a28b-4eea-b0d1-8f495d6dd0e2)
+![Image](https://github.com/user-attachments/assets/47bba77b-df6d-4c17-9d19-377fa1f65edd)
 3. Login sebagai Administrasi
-![Image](https://github.com/user-attachments/assets/42bcdb36-ad3d-435d-bcab-9bf572e840e6)
+![Image](https://github.com/user-attachments/assets/4b83d831-16e9-4984-b8e0-b73ce3534b50)
 4. Login sebagai Dokter
-![Image](https://github.com/user-attachments/assets/91337280-a7c3-4f1d-b944-f5ac5d0db891)
+![Image](https://github.com/user-attachments/assets/060be774-9bc8-4ff8-bda3-9355a484cb73)
 5. Login Sebagai Perawat
-![Image](https://github.com/user-attachments/assets/20fb8c67-59f9-4f65-973d-69647319224f)
+![Image](https://github.com/user-attachments/assets/eeed4a77-40d3-4654-9f8b-f1a4b27f54d4)
 6. Login sebagai Apoteker
-![Image](https://github.com/user-attachments/assets/7a8e5723-2292-4b85-ba0b-8d0db89903c7)
+![Image](https://github.com/user-attachments/assets/804a5fbb-6d6a-4fa2-93f1-9a6df8300d01)
