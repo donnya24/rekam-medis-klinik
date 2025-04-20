@@ -293,7 +293,7 @@ $total_stok = mysqli_fetch_assoc($query_stok_obat)['total_stok'];
             <!-- Heading -->
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="page-header">Dashboard Perawat</h1>
+                    <h1 class="page-header">Selamat Datang di Dashboard Perawat</h1>
                     <div class="nurse-info">
                         <div>
                         <span class="nurse-name"><strong>Perawat:</strong> <span class="nurse-plain"><?php echo htmlspecialchars($perawat['nama_perawat']); ?></span></span>
