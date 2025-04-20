@@ -259,7 +259,7 @@ $query_perawatan_bulan_ini = mysqli_query($conn, "
             <!-- Heading -->
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="page-header">Selamat Datang di Dashboard Klinik</h1>
+                    <h1 class="page-header">Selamat Datang di Dashboard Administrasi</h1>
                 </div>
             </div>
 
