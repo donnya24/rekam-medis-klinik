@@ -485,50 +485,6 @@ $query_perawatan_bulan_ini = mysqli_query($conn, "
                 </div>
             </div>
 
-            <!-- Daftar Transaksi Pembayaran Terbaru -->
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">Riwayat Pembayaran Pasien</div>
-                        <div class="panel-body">
-                            <table class="table table-bordered table-striped">
-                                <thead class="bg-primary text-white">
-                                    <tr>
-                                        <th>No.</th>
-                                        <th>Nama Pasien</th>
-                                        <th>Total Harga</th>
-                                        <th>Metode Pembayaran</th>
-                                        <th>Tanggal Pembayaran</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <?php
-                                    if (mysqli_num_rows($query_pembayaran_terbaru) > 0) {
-                                        $no = 1;
-                                        while ($row = mysqli_fetch_assoc($query_pembayaran_terbaru)) {
-                                            echo "<tr>";
-                                            echo "<td>" . $no . "</td>";
-                                            echo "<td>" . htmlspecialchars($row['nama_pasien']) . "</td>";
-                                            echo "<td>Rp " . number_format($row['total_harga'], 0, ',', '.') . "</td>";
-                                            echo "<td>" . htmlspecialchars($row['metode_pembayaran']) . "</td>";
-                                            echo "<td>" . htmlspecialchars($row['tanggal_pembayaran']) . "</td>";
-                                            echo "</tr>";
-                                            $no++;
-                                        }
-                                    } else {
-                                        echo "<tr><td colspan='5' style='text-align: center;'>Belum ada riwayat pembayaran</td></tr>";
-                                    }
-                                    ?>
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
 <!-- Scripts -->
 <script src="../../assets/js/jquery-1.10.2.js"></script>
 <script src="../../assets/js/bootstrap.min.js"></script>
