@@ -27,8 +27,6 @@ Membantu tenaga medis dan staf klinik dalam mencatat riwayat kesehatan pasien se
 - Fakultas Teknik : https://ft.unesa.ac.id/
 - Universitas Negeri Surabaya : https://unesa.ac.id/
 
-# Dosen Pembimbing
-
 # Tampilan Aplikasi
 1. Halaman Login
 ![Image](https://github.com/user-attachments/assets/3e5c6b71-e5b1-4be2-b8ed-e1692bd04887)
