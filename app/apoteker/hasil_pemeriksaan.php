@@ -1,5 +1,5 @@
 <?php
-include "../../includes/perawat/sidebar.php";
+include "../../includes/apoteker/sidebar.php";
 include "../../config/db.php";
 
 // Mengambil data hasil pemeriksaan
